@@ -1,0 +1,13 @@
+
+/* Estilo del encabezado del sistema */
+header {
+  background-color: #d9efff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilo del título */
+h1 {
+  color: #174a70;
+  font-size: 26px;
+}

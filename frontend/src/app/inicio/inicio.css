@@ -1,0 +1,17 @@
+
+/* Estilo de la pantalla de inicio */
+main {
+  padding: 30px;
+  text-align: center;
+}
+
+/* Estilo de los títulos */
+h2, h3 {
+  color: #174a70;
+}
+
+/* Estilo de los párrafos */
+p {
+  font-size: 16px;
+  color: #333333;
+}

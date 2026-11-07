@@ -1,0 +1,13 @@
+
+/* Estilo del pie de página */
+footer {
+  background-color: #d9efff;
+  padding: 15px;
+  text-align: center;
+}
+
+/* Estilo del texto */
+p {
+  color: #174a70;
+  font-size: 14px;
+}
