@@ -1,0 +1,9 @@
+
+# Dependencias de los proyectos
+node_modules/
+
+# Archivos generados al compilar
+dist/
+
+# Archivos temporales de Angular
+.angular/
